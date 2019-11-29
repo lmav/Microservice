@@ -23,7 +23,7 @@ small  hotel  application designed  with the microservice  architecture pattern
 </p>
 
 <ul>
-  <li>Start the eureka server first.<br>
+  <li>Start the eureka server first.<br><br><br><br><br><br><br>
   
 ```
 java  -jar server.jar &
