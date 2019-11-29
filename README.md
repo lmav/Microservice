@@ -53,7 +53,8 @@ ps aux
 <img src="img/micro5.png">
 
 ```
-kill 2864
+kill 2983
+kill 2990
 ```
 
 
