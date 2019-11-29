@@ -31,7 +31,7 @@ java  -jar server.jar &
   </li>
     <li><br> Wait until you see the following message.<br><br>
   
-   <img src="img/micro.png">
+   <img src="img/micro.png"><br>
   </li>
   <li>Start the hotel deals microservice next.<br><br>
 
@@ -55,7 +55,6 @@ ps aux
 ```
 kill 1234 
 ```
-<img src="img/micro.png">
 
 
 
