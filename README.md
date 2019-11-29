@@ -1,5 +1,7 @@
 # Hotel 
 
+small  hotel  application designed  with the microservice  architecture pattern
+
 <h3>Topics</h3>
 <ul>
   <li>Java 8 </li>
