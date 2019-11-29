@@ -30,6 +30,7 @@ java  -jar server.jar &
 ```
   </li>
     <li> Wait until you see the following message. <br> 
+      
       <img src="img/micro.png">
   </li>
   <li>Start the hotel deals microservice next.
