@@ -28,7 +28,7 @@ java  -jar server.jar &
 ```
   </li>
     <li> Wait until you see the following message.  
-      <img src="img/micro3.png">
+      <img src="img/micro.png">
   </li>
   <li>Start the hotel deals microservice next.
 
@@ -36,12 +36,7 @@ java  -jar server.jar &
 java -jar hotel-deals.js &
 ```
 </li>After starting both microservices go to  <strong>http://localhost:8761/</strong>
-  
-  ```
-java -jar hotel-deals.js &
-
-
-```    
+  <img src="img/micro3.png">   
 </ul>  
 
 ## To stop the services from running do the following
@@ -55,6 +50,7 @@ ps aux
 ```
 kill 1234 
 ```
+<img src="img/micro4.png">
 
 ## License
 
