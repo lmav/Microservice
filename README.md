@@ -12,8 +12,6 @@
 <h3>Instructions</h3>
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+java -jar server.js &
 ```
 
