@@ -36,7 +36,7 @@ java  -jar server.jar &
   <li>Start the hotel deals microservice next.<br><br>
 
 ```
-java -jar hotel-deals.js &
+java -jar hotel-deals.jar &
 ```
 </li><br>After starting both microservices go to  <strong>http://localhost:8761/</strong><br><br>
   
