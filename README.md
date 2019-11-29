@@ -2,7 +2,7 @@
 
 small  hotel  application designed  with the microservice  architecture pattern
 
-<h3>Topics</h3>
+## Topics
 <ul>
   <li>Java 8 </li>
   <li>Spring boot</li>
