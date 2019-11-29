@@ -11,16 +11,9 @@
 
 <h3>Instructions</h3>
 
-<h4>Step 1<h4>
 ```
-git status
-git add
-git commit
-```
-<h4>Step 1<h4>
-```
-git status
-git add
-git commit
+function test() {
+  console.log("notice the blank line before this function?");
+}
 ```
 
