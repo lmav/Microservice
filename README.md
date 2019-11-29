@@ -12,6 +12,8 @@ small  hotel  application designed  with the microservice  architecture pattern
 </ul>
 
 ## Preview
+
+<br>
 <img src="img/micro2.png">
 
 ## Instructions
@@ -21,13 +23,13 @@ small  hotel  application designed  with the microservice  architecture pattern
 </p>
 
 <ul>
-  <li>Start the eureka server first.
+  <li>Start the eureka server first.<br>
   
 ```
 java  -jar server.jar &
 ```
   </li>
-    <li> Wait until you see the following message.  
+    <li> Wait until you see the following message. <br> 
       <img src="img/micro.png">
   </li>
   <li>Start the hotel deals microservice next.
@@ -35,7 +37,7 @@ java  -jar server.jar &
 ```
 java -jar hotel-deals.js &
 ```
-</li>After starting both microservices go to  <strong>http://localhost:8761/</strong>
+</li>After starting both microservices go to  <strong>http://localhost:8761/</strong><br>
   <img src="img/micro3.png">   
 </ul>  
 
@@ -52,5 +54,5 @@ kill 1234
 ```
 <img src="img/micro4.png">
 
-## License
+
 
