@@ -38,7 +38,7 @@ picture
 ```
 java -jar hotel-deals.js &
 ```
-</li>After starting both microservices go to **http://localhost:8761/**
+</li>After starting both microservices go to ** http://localhost:8761/ **
   
   ```
 java -jar hotel-deals.js &
