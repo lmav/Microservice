@@ -38,6 +38,9 @@ java  -jar server.jar &
 ```
 java -jar hotel-deals.jar &
 ```
+### repeat the steps for the remaining services
+
+
 </li><br>After starting both microservices go to  <strong>http://localhost:8761/</strong><br><br>
   
   
