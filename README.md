@@ -1,6 +1,6 @@
 # Hotel 
 
-<h3>Topic</h3>
+<h3>Topics</h3>
 <ul>
   <li>Java 8 </li>
   <li>Spring boot</li>
