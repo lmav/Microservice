@@ -29,16 +29,18 @@ small  hotel  application designed  with the microservice  architecture pattern
 java  -jar server.jar &
 ```
   </li>
-    <li> Wait until you see the following message. <br> 
-      
-      <img src="img/micro.png">
+    <li> Wait until you see the following message.<br><br>
+  
+   <img src="img/micro.png">
   </li>
-  <li>Start the hotel deals microservice next.
+  <li>Start the hotel deals microservice next.<br><br>
 
 ```
 java -jar hotel-deals.js &
 ```
-</li>After starting both microservices go to  <strong>http://localhost:8761/</strong><br>
+</li>After starting both microservices go to  <strong>http://localhost:8761/</strong><br><br>
+  
+  
   <img src="img/micro3.png">   
 </ul>  
 
