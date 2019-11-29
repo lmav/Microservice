@@ -13,6 +13,7 @@ small  hotel  application designed  with the microservice  architecture pattern
 
 ## Preview
 <img src="img/micro2.png">
+
 ## Instructions
 
 <p>After cloning the repository run the following commands inside the run folder. Important note, I'm using the git bash 
@@ -42,12 +43,15 @@ java -jar hotel-deals.js &
 
 ```    
 </ul>  
+
 ## To stop the services from running do the following
 
 ```
 ps aux 
 ```
+
 <img src="img/micro4.png">
+
 ```
 kill 1234 
 ```
