@@ -12,7 +12,7 @@ small  hotel  application designed  with the microservice  architecture pattern
 </ul>
 
 ## Preview
-
+<img src="img/micro2.png">
 ## Instructions
 
 <p>After cloning the repository run the following commands inside the run folder. Important note, I'm using the git bash 
@@ -26,14 +26,8 @@ small  hotel  application designed  with the microservice  architecture pattern
 java  -jar server.jar &
 ```
   </li>
-    <li> Wait until you see the following message. 
-  
-```
-
-picture
-
-
-```
+    <li> Wait until you see the following message.  
+      <img src="img/micro3.png">
   </li>
   <li>Start the hotel deals microservice next.
 
@@ -53,13 +47,7 @@ java -jar hotel-deals.js &
 ```
 ps aux 
 ```
-
-```
-
-picture
-
-```
-
+<img src="img/micro4.png">
 ```
 kill 1234 
 ```
