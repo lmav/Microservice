@@ -55,7 +55,7 @@ ps aux
 ```
 kill 1234 
 ```
-<img src="img/micro4.png">
+<img src="img/micro5.png">
 
 
 
