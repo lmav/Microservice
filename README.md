@@ -11,7 +11,17 @@
 
 <h3>Instructions</h3>
 
+<p>after cloning the repository run the following commands to test the application</p>
+
+<ul>
+  <li>step one
+  
 ```
-java -jar server.js &
+cd to run
 ```
+  </li>
+  
+  
+</ul>  
+
 
