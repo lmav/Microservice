@@ -9,9 +9,9 @@
   <li>Git bash</li>
 </ul>
 
-<h3>Preview</h3>
+## Preview
 
-<h3>Instructions</h3>
+## Instructions
 
 <p>After cloning the repository run the following commands inside the run folder. Important note, I'm using the git bash 
   terminal.
@@ -38,7 +38,7 @@ picture
 ```
 java -jar hotel-deals.js &
 ```
-</li>After starting both microservices go to <strong>http://localhost:8761/</strong>
+</li>After starting both microservices go to **http://localhost:8761/**
   
   ```
 java -jar hotel-deals.js &
@@ -46,7 +46,7 @@ java -jar hotel-deals.js &
 
 ```    
 </ul>  
-<p>To stop the services from running do the following</p>
+## To stop the services from running do the following
 
 ```
 ps aux 
@@ -62,4 +62,5 @@ picture
 kill 1234 
 ```
 
+## License
 
