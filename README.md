@@ -1,7 +1,6 @@
 # Hotel 
 
-basic functionalities of a hotel  application program designed  with the microservice  architecture pattern.
-
+Basic functionalities of Microservice Architecture pattern  used to implement a hotel application service.
 ## Topics
 <ul>
   <li>Java 8 </li>
