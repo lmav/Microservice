@@ -1,6 +1,6 @@
 # Hotel 
 
-small  hotel  application designed  with the microservice  architecture pattern
+basic functionalities of a hotel  application program designed  with the microservice  architecture pattern.
 
 ## Topics
 <ul>
