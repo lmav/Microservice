@@ -53,11 +53,13 @@ java -jar hotel-deals.jar &
 ps aux 
 ```
 
-<img src="img/micro5.png">
+<img src="img/micro4.png">
 
 ```
-kill 2983
-kill 2990
+kill 3131
+kill 3158
+kill 3148
+kill 3138
 ```
 
 
